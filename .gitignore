@@ -1,1 +1,3 @@
 myenv/
+*.cpython-37.pyc
+db.sqlite3
